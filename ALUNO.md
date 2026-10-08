@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Augusto Palma
+Nome: Augusto Palma Guglielmi
 
-RA: >>> PREENCHER <<<
+RA: >>> 23021606-2 <<<
 
 Conta GitHub: @AugustoPalma
 
